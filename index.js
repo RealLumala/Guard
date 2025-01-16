@@ -8,6 +8,8 @@ function App() {
     <div>
       <h1>Welcome to Guard Wallet</h1>
       <p>Guard Wallet is a secure wallet for your digital assets</p>
+      {/* Add Exodus script */}
+      {/* Add Maths wallet components */}
       
     </div>
   );
