@@ -1,5 +1,6 @@
 // Front end code goes here
 // Must be done asap
+// ISO 20022 compliant 
 
 import React from 'react';
 
