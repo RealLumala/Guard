@@ -10,6 +10,7 @@ function App() {
       <p>Guard Wallet is a secure wallet for your digital assets</p>
       {/* Add Exodus script */}
       {/* Add Maths wallet components */}
+      {/* Add Zondax wallet components */}
       
     </div>
   );
