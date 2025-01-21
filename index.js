@@ -11,6 +11,11 @@ function App() {
       {/* Add Exodus script */}
       {/* Add Maths wallet components */}
       {/* Add Zondax wallet components */}
+      <div> 
+
+            // display
+
+      </div>
       
     </div>
   );
