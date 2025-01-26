@@ -18,7 +18,7 @@ function App() {
 
       </div>
       
-    </div>
+    </div> 
   );
 }
 
@@ -26,4 +26,3 @@ export default App;
 
 // check all diffs by 23rd
 // changes made to bypass scripts & env
-// More edits upcoming.
