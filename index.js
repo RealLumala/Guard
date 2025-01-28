@@ -24,5 +24,5 @@ function App() {
 
 export default App;
 
-// check all diffs by 23rd
+// check all diffs by end of Jan
 // changes made to bypass scripts & env
