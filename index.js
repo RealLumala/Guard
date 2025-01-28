@@ -12,6 +12,7 @@ function App() {
       {/* Add Maths wallet components */}
       {/* Add Atomic  wallet components */}
       {/* Add Shannon  wallet components */}
+      {/* Add Oasis  wallet components */}
       <div> 
 
             // display
@@ -26,3 +27,4 @@ export default App;
 
 // check all diffs by end of Jan
 // changes made to bypass scripts & env
+// Ascertain all results with REKT test files
