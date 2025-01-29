@@ -26,5 +26,6 @@ function App() {
 export default App;
 
 // check all diffs by end of Jan
-// changes made to bypass scripts & env
+
 // Ascertain all results with REKT test files
+// let changes appear on facade patterns.
