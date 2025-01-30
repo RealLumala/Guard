@@ -28,4 +28,5 @@ export default App;
 // check all diffs by end of Jan
 
 // Ascertain all results with REKT test files
-// let changes appear on facade patterns.
+// let changes appear on facade & Gauntlet patterns.
+// Radix Enginge tests plus a few lattice commands
