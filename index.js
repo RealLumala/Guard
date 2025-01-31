@@ -9,7 +9,7 @@ function App() {
       <h1>Welcome to Guard Wallet</h1>
       <p>Guard Wallet is a secure wallet for your digital assets</p>
       {/* Add Exodus script */}
-      {/* Add Maths wallet components */}
+     
       {/* Add Atomic  wallet components */}
       {/* Add Shannon  wallet components */}
       {/* Add Oasis  wallet components */}
@@ -28,5 +28,7 @@ export default App;
 // check all diffs by end of Jan
 
 // Ascertain all results with REKT test files
-// let changes appear on facade & Gauntlet patterns.
-// Radix Enginge tests plus a few lattice commands
+
+// Radix Engine tests plus a few lattice commands
+
+// check latex files.
