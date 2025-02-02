@@ -25,10 +25,9 @@ function App() {
 
 export default App;
 
-// check all diffs by end of Jan
+
 
 // Ascertain all results with REKT test files
 
 // Radix Engine tests plus a few lattice commands
 
-// check latex files.
