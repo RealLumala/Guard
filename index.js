@@ -27,7 +27,7 @@ export default App;
 
 
 
-// Ascertain all results with REKT test files
+// Ascertain all changes coming after Feb 1st
 
 // Radix Engine tests plus a few lattice commands
 
