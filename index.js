@@ -13,11 +13,7 @@ function App() {
       {/* Add Atomic  wallet components */}
       {/* Add Shannon  wallet components */}
       {/* Add Oasis  wallet components */}
-      <div> 
-
-            // display
-             
-     
+      <div>
       {/*  */}
       {/*  */}
       {/* */}
