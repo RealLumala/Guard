@@ -11,7 +11,7 @@ function App() {
       {/* Add Exodus script */}
      
       {/* Add Atomic  wallet components */}
-      {/* Add Shannon  wallet components */}
+      
       {/* Add Oasis  wallet components */}
       <div>
       {/*  */}
@@ -30,5 +30,4 @@ export default App;
 
 // Ascertain all changes coming after Feb 1st
 
-// Radix Engine tests plus a few lattice commands
 
