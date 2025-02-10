@@ -12,10 +12,10 @@ function App() {
      
       {/* Add Atomic  wallet components */}
       
-      {/* Add Oasis  wallet components */}
+      
       <div>
       {/*  */}
-      {/*  */}
+      
       {/* */}
 
       </div>
