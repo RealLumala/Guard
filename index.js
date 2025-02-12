@@ -1,5 +1,6 @@
-// Front end code goes here
+
 // Must be done asap
+// look into frameworks like Vite, Viem or Wgmi
 
 import React from 'react';
 
@@ -12,7 +13,7 @@ function App() {
      
       {/* Add Atomic  wallet components */}
       
-      
+
       <div>
       {/*  */}
       
