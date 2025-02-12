@@ -16,7 +16,14 @@ function App() {
 
       <div>
       {/*  */}
-      
+        <div>
+          <h2>Guard Wallet Features</h2>
+          <ul>
+            <li>Advanced security features</li>
+            <li>Instant transactions</li>
+            <li>Secure backups</li>
+          </ul>
+        </div>
       {/* */}
 
       </div>
