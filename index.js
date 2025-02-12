@@ -22,6 +22,7 @@ function App() {
             <li>Advanced security features</li>
             <li>Instant transactions</li>
             <li>Secure backups</li>
+            <li>Multi-currency support</li>
           </ul>
         </div>
       {/* */}
