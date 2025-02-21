@@ -16,7 +16,15 @@ function App() {
 
       <div>
       {/*  */}
-      
+        <div>
+          <h2>Guard Wallet Features</h2>
+          <ul>
+            <li>Advanced security features</li>
+            <li>Instant transactions</li>
+            <li>Secure backups</li>
+            <li>Multi-currency support</li>
+          </ul>
+        </div>
       {/* */}
 
       </div>
@@ -30,5 +38,8 @@ export default App;
 
 
 // Ascertain all changes coming after Feb 1st
+//
+//Has to be issued out by end of Q!
+// More changes coming
 
 
