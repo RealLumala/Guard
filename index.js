@@ -23,8 +23,12 @@ function App() {
             <li>Instant transactions</li>
             <li>Secure backups</li>
             <li>Multi-currency support</li>
+
           </ul>
         </div>
+      {/* */}
+      {/* */}
+      {/* */}
       {/* */}
 
       </div>
