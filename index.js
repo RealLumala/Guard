@@ -38,12 +38,14 @@ function App() {
 }
 
 export default App;
+// Add more features and components as needed
 
 
 
 // Ascertain all changes coming after Feb 1st
 //
 //Has to be issued out by end of Q!
+//
 // More changes coming
 
 
