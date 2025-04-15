@@ -1,6 +1,6 @@
 
 // Must be done asap
-// look into frameworks like Vite, Viem or Wgmi
+// look into frameworks like Vite, Viem or Wagmi and thirdweb
 
 import React from 'react';
 
